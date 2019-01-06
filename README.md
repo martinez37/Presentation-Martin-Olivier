@@ -15,3 +15,17 @@ passion dans laquelle je commence à me professionaliser . Suite aux communauté
 puis depuis 6 mois un second site plus important qui couvre à la fois les résultats esportifs et offre une couverture journalistique  de ce milieux , toujours en temps que database manager .
 
 Je suis aussi passionné de festivals de musique ,  notamment le festival Terre Du Son pour lequel je fais bénévole depuis 4 ans , toujours dans un recherche de faire parti de l'orgaisation d'un projet .
+
+## Mes sites préférés 
+
+Les sites que j'utilise au quotidien tournent autour de l'Esport :
+
+-https://discordapp.com , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travail .
+
+-https://liquipedia.net/commons/Main_Page Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine 
+
+-https://www.hltv.org/  site spécialisé sur le jeux Counter-Strike , l'un des jeux Esport le plus dynamique du milieux , doté de la base de donnée et statistiques les plus poussés et complète dans ce domaine
+
+-https://www.gamepedia.com/ regroupant le plus grand nombre de wikis sur les jeux vidéos aux monde (2,227 wikis) , me servant aussi pour travailler et me documenter 
+
+-https://www.reddit.com Le plus grand forum du monde , très utilisé dans le milieux de l'Esport 
