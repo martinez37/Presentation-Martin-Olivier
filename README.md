@@ -15,6 +15,8 @@ J'ai commencé à me profssionnaliser dans cette passion ; suite aux communauté
 
 https://github.com/martinez37/Presentation-Martin-Olivier/issues/1#issue-396696521
 
+![cefim1](https://user-images.githubusercontent.com/15890660/50800421-6c45d180-12e0-11e9-9b12-c6bb9a07deb7.PNG)
+
 Puis depuis six mois un second site plus important qui couvre à la fois les résultats esportifs et offre une couverture journalistique  de ce milieux , toujours en tant que database manager .
 
 Je suis aussi passionné de festivals de musique ,  notamment le festival Terre Du Son pour lequel je fais bénévole depuis 4 ans , toujours dans une recherche de faire partie de l'organisation d'un projet .
