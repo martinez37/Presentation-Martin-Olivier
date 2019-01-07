@@ -22,21 +22,21 @@ Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
 -[discordapp](https://discordapp.com) , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travail .
 
--https://liquipedia.net/commons/Main_Page Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
+-[](https://liquipedia.net/commons/Main_Page) Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
 
--https://www.hltv.org/  site spécialisé sur le jeux Counter-Strike , l'un des jeux Esport le plus dynamique du milieux , doté de la base de donnée et statistiques les plus poussés et complète dans ce domaine
+-[hltv](https://www.hltv.org/)  site spécialisé sur le jeux Counter-Strike , l'un des jeux Esport le plus dynamique du milieux , doté de la base de donnée et statistiques les plus poussés et complète dans ce domaine
 
--https://www.gamepedia.com/ regroupant le plus grand nombre de wikis sur les jeux vidéos aux monde (2,227 wikis) , me servant aussi pour travailler et me documenter 
+-[gamepedia](https://www.gamepedia.com/) regroupant le plus grand nombre de wikis sur les jeux vidéos aux monde (2,227 wikis) , me servant aussi pour travailler et me documenter 
 
--https://www.reddit.com Le plus grand forum du monde , très utilisé dans le milieux de l'Esport 
+-[reddit](https://www.reddit.com) Le plus grand forum du monde , très utilisé dans le milieux de l'Esport 
 
--https://esportsforecasts.com/ site de prédiction de résultats esportifs , premier site pour lequel j'ai travaillé en tant que database manager 
+-[esportsforecasts](https://esportsforecasts.com/) site de prédiction de résultats esportifs , premier site pour lequel j'ai travaillé en tant que database manager 
 
--https://www.gosugamers.net/ site de couverture de résultats esportifs et couvrture journalistique de l'évolution du domaine
+-[gosugamers](https://www.gosugamers.net/) site de couverture de résultats esportifs et couvrture journalistique de l'évolution du domaine
 
 
 ## Mes réseaux sociaux
 
 Les réseaux sociaux ne représentent pas un intéret premier à mon avis , dans le sens où je sais où trouver les informations qui m'intéresses , je n'utilise que Facebook pour mes contactes personnels .
 
-https://www.facebook.com/martin.olivier.58
+[facebook](https://www.facebook.com/martin.olivier.58)
