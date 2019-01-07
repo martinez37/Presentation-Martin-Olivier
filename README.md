@@ -20,7 +20,7 @@ Je suis aussi passionné de festivals de musique ,  notamment le festival Terre 
 
 Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
--https://discordapp.com , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travail .
+-[discordapp](https://discordapp.com) , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travail .
 
 -https://liquipedia.net/commons/Main_Page Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
 
