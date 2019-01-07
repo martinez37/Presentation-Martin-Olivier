@@ -22,17 +22,17 @@ Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
 - [discordapp](https://discordapp.com) , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travail .
 
--[liquipedia](https://liquipedia.net/commons/Main_Page) Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
+- [liquipedia](https://liquipedia.net/commons/Main_Page) Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
 
--[hltv](https://www.hltv.org/)  site spécialisé sur le jeux Counter-Strike , l'un des jeux Esport le plus dynamique du milieux , doté de la base de donnée et statistiques les plus poussés et complète dans ce domaine
+- [hltv](https://www.hltv.org/)  site spécialisé sur le jeux Counter-Strike , l'un des jeux Esport le plus dynamique du milieux , doté de la base de donnée et statistiques les plus poussés et complète dans ce domaine
 
--[gamepedia](https://www.gamepedia.com/) regroupant le plus grand nombre de wikis sur les jeux vidéos aux monde (2,227 wikis) , me servant aussi pour travailler et me documenter 
+- [gamepedia](https://www.gamepedia.com/) regroupant le plus grand nombre de wikis sur les jeux vidéos aux monde (2,227 wikis) , me servant aussi pour travailler et me documenter 
 
--[reddit](https://www.reddit.com) Le plus grand forum du monde , très utilisé dans le milieux de l'Esport 
+- [reddit](https://www.reddit.com) Le plus grand forum du monde , très utilisé dans le milieux de l'Esport 
 
--[esportsforecasts](https://esportsforecasts.com/) site de prédiction de résultats esportifs , premier site pour lequel j'ai travaillé en tant que database manager 
+- [esportsforecasts](https://esportsforecasts.com/) site de prédiction de résultats esportifs , premier site pour lequel j'ai travaillé en tant que database manager 
 
--[gosugamers](https://www.gosugamers.net/) site de couverture de résultats esportifs et couvrture journalistique de l'évolution du domaine
+- [gosugamers](https://www.gosugamers.net/) site de couverture de résultats esportifs et couvrture journalistique de l'évolution du domaine
 
 
 ## Mes réseaux sociaux
