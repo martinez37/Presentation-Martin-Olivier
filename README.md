@@ -22,7 +22,7 @@ Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
 -[discordapp](https://discordapp.com) , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travail .
 
--[](https://liquipedia.net/commons/Main_Page) Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
+-[liquipedia](https://liquipedia.net/commons/Main_Page) Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
 
 -[hltv](https://www.hltv.org/)  site spécialisé sur le jeux Counter-Strike , l'un des jeux Esport le plus dynamique du milieux , doté de la base de donnée et statistiques les plus poussés et complète dans ce domaine
 
