@@ -20,13 +20,13 @@ Je suis aussi passionné de festivals de musique ,  notamment le festival Terre 
 
 Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
-- [discordapp](https://discordapp.com) , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travail .
+- [discordapp](https://discordapp.com) , l'équivalent de Slack gratuit , qui me permet de rester en lien avec les différentes communautés , et les équipes des sites pour lesquels je travaille .
 
 - [liquipedia](https://liquipedia.net/commons/Main_Page) Le plus gros wiki spécialisé dans l'Esport , qui permet au quotidien de se tenir informé de l'évolution de ce domaine au niveau compétitife
 
-- [hltv](https://www.hltv.org/)  site spécialisé sur le jeux Counter-Strike , l'un des jeux Esport le plus dynamique du milieux , doté de la base de donnée et statistiques les plus poussés et complète dans ce domaine
+- [hltv](https://www.hltv.org/)  site spécialisé sur le jeu Counter-Strike , l'un des jeux Esport le plus dynamique du milieu , doté de la base de données et statistiques les plus poussés et complète dans ce domaine
 
-- [gamepedia](https://www.gamepedia.com/) regroupant le plus grand nombre de wikis sur les jeux vidéos aux monde (2,227 wikis) , me servant aussi pour travailler et me documenter 
+- [gamepedia](https://www.gamepedia.com/) regroupant le plus grand nombre de wikis sur les jeux vidéos au monde (2,227 wikis) , me servant aussi pour travailler et me documenter 
 
 - [reddit](https://www.reddit.com) Le plus grand forum du monde , très utilisé dans le milieux de l'Esport 
 
@@ -37,7 +37,7 @@ Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
 ## Mes réseaux sociaux
 
-Les réseaux sociaux ne représentent pas un intéret premier à mon avis , dans le sens où je sais où trouver les informations qui m'intéresses , je n'utilise que Facebook pour mes contactes personnels et reddit .
+Les réseaux sociaux ne représentent pas un intéret premier à mon avis , dans le sens où je sais où trouver les informations qui m'intéressent , je n'utilise que Facebook pour mes contactes personnels et reddit .
 
 [facebook](https://www.facebook.com/martin.olivier.58)
 
