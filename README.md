@@ -37,7 +37,7 @@ Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
 ## Mes réseaux sociaux
 
-Les réseaux sociaux ne représentent pas un intéret premier à mon avis , dans le sens où je sais où trouver les informations qui m'intéresses , je n'utilise que Facebook pour mes contactes personnels .
+Les réseaux sociaux ne représentent pas un intéret premier à mon avis , dans le sens où je sais où trouver les informations qui m'intéresses , je n'utilise que Facebook pour mes contactes personnels et reddit .
 
 [facebook](https://www.facebook.com/martin.olivier.58)
 
