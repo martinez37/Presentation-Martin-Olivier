@@ -5,13 +5,13 @@
 Je suis Martin Olivier, j'ai 23 ans et suis originaire de Tours .
 Suite à un BAC économique et social , j'ai fait 2 ans de langues étrangères appliquées, anglais-espagnol , à l'université de Tours .
 Puis, suite à une réorientation, 2 ans d'information et communication dans les universités de Nancy puis Rennes .
-En terme d'expériences professionnelles , j'ai déjà occupé des postes très variés : archiviste numérique ,surveillant scolaire , agent de service technique , ...
+En termes d'expériences professionnelles , j'ai déjà occupé des postes très variés : archiviste numérique ,surveillant scolaire , agent de service technique , ...
 
 
 ## Mes centres d'intérets 
 
-A l'origine, je suis passionné de jeux vidéos. Cette passion ,au fil des années ,m'a ouvert à d'autres domaines et notamment celui de l'Esport que je suis desormais au quotidien et cela depuis près de 5 ans. C'est d'ailleurs une chance d'être à Tours où se déroule la Dreamhack où j'ai eu l'occasion de me rendre plusieurs fois ces dernièrs années 
-J'ai commencé à me profssionnaliser dans cette passion ; suite aux communautés que j'ai intégrées au fil des années et aux contactes que je me suis fait , je travail depuis un ans et demi pour un site de prédictions de résultats esportifs en tant que database manager site encore au stade de beta .
+A l'origine, je suis passionné de jeux vidéos. Cette passion ,au fil des années ,m'a ouvert à d'autres domaines et notamment celui de l'Esport que je suis désormais au quotidien et cela depuis près de 5 ans. C'est d'ailleurs une chance d'être à Tours où se déroule la Dreamhack où j'ai eu l'occasion de me rendre plusieurs fois ces dernières années . 
+J'ai commencé à me professionnaliser dans cette passion ; suite aux communautés que j'ai intégrées au fil des années et aux contactes que je me suis fait , je travaille depuis un ans et demi pour un site de prédictions de résultats esportifs en tant que database manager site encore au stade de beta .
 
 
 **[esportsforecasts](https://esportsforecasts.com/) , page d'accueil du site**
