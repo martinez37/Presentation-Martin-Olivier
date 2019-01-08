@@ -23,7 +23,7 @@ J'ai commencé à me professionnaliser dans cette passion ; suite aux communaut�
 
 Puis depuis six mois un second site plus important qui couvre à la fois les résultats esportifs et offre une couverture journalistique  de ce milieux , toujours en tant que database manager .
 
-**[gosugamers]**(https://www.gosugamers.net/)
+**[gosugamers](https://www.gosugamers.net/)**
 ![cefim3](https://user-images.githubusercontent.com/15890660/50800581-16bdf480-12e1-11e9-973a-3e76f33d9ca8.PNG)
 
 Je suis aussi passionné de festivals de musique ,  notamment le festival Terre Du Son pour lequel je fais bénévole depuis quatre ans , toujours dans une recherche de faire partie de l'organisation d'un projet .
