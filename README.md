@@ -13,9 +13,12 @@ En terme d'expériences professionnelles , j'ai déjà occupé des postes très 
 A l'origine, je suis passionné de jeux vidéos. Cette passion ,au fil des années ,m'a ouvert à d'autres domaines et notamment celui de l'Esport que je suis desormais au quotidien et cela depuis près de 5 ans. C'est d'ailleurs une chance d'être à Tours où se déroule la Dreamhack où j'ai eu l'occasion de me rendre plusieurs fois ces dernièrs années 
 J'ai commencé à me profssionnaliser dans cette passion ; suite aux communautés que j'ai intégrées au fil des années et aux contactes que je me suis fait , je travail depuis un ans et demi pour un site de prédictions de résultats esportifs en tant que database manager site encore au stade de beta .
 
-https://github.com/martinez37/Presentation-Martin-Olivier/issues/1#issue-396696521
 
+[esportsforecasts](https://esportsforecasts.com/) , page d'accueil du site
 ![cefim1](https://user-images.githubusercontent.com/15890660/50800421-6c45d180-12e0-11e9-9b12-c6bb9a07deb7.PNG)
+
+[esportsforecasts](https://esportsforecasts.com/) , exemple d'une page de prédiction de résultat d'un match
+![cefim2](https://user-images.githubusercontent.com/15890660/50800487-b7f87b00-12e0-11e9-9dc9-7ce504bcbc60.PNG)
 
 Puis depuis six mois un second site plus important qui couvre à la fois les résultats esportifs et offre une couverture journalistique  de ce milieux , toujours en tant que database manager .
 
