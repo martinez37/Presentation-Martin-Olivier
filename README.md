@@ -55,3 +55,11 @@ Les réseaux sociaux ne représentent pas un intéret premier à mon avis , dans
 [facebook](https://www.facebook.com/martin.olivier.58)
 
 [reddit](https://www.reddit.com/user/Martiinezz/)
+
+
+## Mes motivations
+
+Ma motivation à rejoindre le CEFIM résulte du bilan que j'ai fait de mes études passées , des expériences professionnelles que j'ai eu et de mon investissement dans ma passion ; l'Esport. 
+Je sens aujourd'hui que j'ai enfin trouvé une motivation pour m'investir dans un domaine , dans lequel j'ai à coeur de participer à des projets pour les mener à leur terme . Domaine en pleine expansion , et toujours plus novateur . 
+Malheureusement , je suis bien conscient que je manque cruellement de connaissances et d'aptitudes techniques pour pouvoir évoluer dans ce domaine . 
+C'est pourquoi je suis déterminé à rejoindre le CEFIM afin de pouvoir continuer à m'épanouir dans cette voie .
