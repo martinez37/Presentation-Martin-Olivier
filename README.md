@@ -11,7 +11,7 @@ En termes d'expériences professionnelles , j'ai déjà occupé des postes très
 ## Mes centres d'intérets 
 
 A l'origine, je suis passionné de jeux vidéos. Cette passion ,au fil des années ,m'a ouvert à d'autres domaines et notamment celui de l'Esport que je suis désormais au quotidien et cela depuis près de 5 ans. C'est d'ailleurs une chance d'être à Tours où se déroule la Dreamhack où j'ai eu l'occasion de me rendre plusieurs fois ces dernières années . 
-J'ai commencé à me professionnaliser dans cette passion ; suite aux communautés que j'ai intégrées au fil des années et aux contactes que je me suis fait , je travaille depuis un ans et demi pour un site de prédictions de résultats esportifs en tant que database manager site encore au stade de beta .
+J'ai commencé à me professionnaliser dans cette passion ; suite aux communautés que j'ai intégrées au fil des années et aux contactes que je me suis fait , je travaille depuis un an et demi pour un site de prédictions de résultats esportifs en tant que database manager site encore au stade de beta .
 
 
 **[esportsforecasts](https://esportsforecasts.com/) , page d'accueil du site**
@@ -26,7 +26,7 @@ Puis depuis six mois un second site plus important qui couvre à la fois les ré
 **[gosugamers]**(https://www.gosugamers.net/)
 ![cefim3](https://user-images.githubusercontent.com/15890660/50800581-16bdf480-12e1-11e9-973a-3e76f33d9ca8.PNG)
 
-Je suis aussi passionné de festivals de musique ,  notamment le festival Terre Du Son pour lequel je fais bénévole depuis 4 ans , toujours dans une recherche de faire partie de l'organisation d'un projet .
+Je suis aussi passionné de festivals de musique ,  notamment le festival Terre Du Son pour lequel je fais bénévole depuis quatre ans , toujours dans une recherche de faire partie de l'organisation d'un projet .
 
 
 ## Les sites que j'utilise au quotidien
@@ -50,7 +50,7 @@ Les sites que j'utilise au quotidien tournent autour de l'Esport :
 
 ## Mes réseaux sociaux
 
-Les réseaux sociaux ne représentent pas un intéret premier à mon avis , dans le sens où je sais où trouver les informations qui m'intéressent , je n'utilise que Facebook pour mes contactes personnels et reddit .
+Les réseaux sociaux ne représentent pas un intérêt premier à mon avis , dans le sens où je sais où trouver les informations qui m'intéressent , je n'utilise que Facebook pour mes contactes personnels et reddit .
 
 [facebook](https://www.facebook.com/martin.olivier.58)
 
