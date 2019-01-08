@@ -28,7 +28,6 @@ Puis depuis six mois un second site plus important qui couvre à la fois les ré
 
 Je suis aussi passionné de festivals de musique ,  notamment le festival Terre Du Son pour lequel je fais bénévole depuis 4 ans , toujours dans une recherche de faire partie de l'organisation d'un projet .
 
-![cefim4](https://user-images.githubusercontent.com/15890660/50800618-3fde8500-12e1-11e9-94a1-22adb18c1644.jpg)
 
 ## Les sites que j'utilise au quotidien
 
